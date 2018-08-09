@@ -17,3 +17,18 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+#button {
+  width: 150px;
+  height: 45px;
+  border-radius: 5px;
+}
+
+#ca {
+  border-radius: 5px;
+}
+
+#burgerImg {
+  width: 25px;
+  height: 25px;
+}
