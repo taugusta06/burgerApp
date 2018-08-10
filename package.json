@@ -1,10 +1,23 @@
 {
   "name": "burgerApp",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/taugusta06/burgerApp.git",
-  "author": "Ty Augusta <taugusta06@gmail.com>",
-  "license": "MIT",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taugusta06/burgerApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taugusta06/burgerApp/issues"
+  },
+  "homepage": "https://github.com/taugusta06/burgerApp#readme",
   "dependencies": {
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
