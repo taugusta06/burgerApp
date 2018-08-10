@@ -1,18 +1,13 @@
 {
-  "name": "burger",
+  "name": "burgerApp",
   "version": "1.0.0",
-  "main": "server.js",
-  "repository": "https://github.com/nneighbo/burger.git",
-  "author": "Noah <noah@gangplankhq.com>",
+  "main": "index.js",
+  "repository": "https://github.com/taugusta06/burgerApp.git",
+  "author": "Ty Augusta <taugusta06@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "mysql": "^2.16.0"
-  },{
-    "scripts":{
-      "start": node server.js
-    }
   }
 }
